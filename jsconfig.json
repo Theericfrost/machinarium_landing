@@ -1,0 +1,46 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@assets/*": [
+                "src/assets/*"
+            ],
+            "@components/*": [
+                "src/components/*"
+            ],
+            "@/*": [
+                "src/*"
+            ],
+            "@Jumbotron.jsx/*": [
+                "src/components/Jumbotron.jsx/*"
+            ],
+            "@Jumbotron/*": [
+                "src/components/Jumbotron/*"
+            ],
+            "@SoundSection/*": [
+                "src/components/SoundSection/*"
+            ],
+            "@helpers/*": [
+                "src/helpers/*"
+            ],
+            "@DisplaySection/*": [
+                "src/components/DisplaySection/*"
+            ],
+            "@WebgiViewer.jsx/*": [
+                "src/components/WebgiViewer.jsx/*"
+            ],
+            "@WebgiViewer./*": [
+                "src/components/WebgiViewer./*"
+            ],
+            "@WebgiViewer/*": [
+                "src/components/WebgiViewer/*"
+            ],
+            "@3dModel/*": [
+                "src/assets/3dModel/*"
+            ],
+            "@textures/*": [
+                "src/assets/3dModel/textures/*"
+            ]
+        }
+    }
+}

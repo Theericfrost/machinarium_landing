@@ -1,0 +1,11 @@
+Model Information:
+* title:	Caterpillar Skid Steer Loader
+* source:	https://sketchfab.com/3d-models/caterpillar-skid-steer-loader-859a64d242314ec3af5bfb449bdfa673
+* author:	EddyNL (https://sketchfab.com/EddyNL)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Caterpillar Skid Steer Loader" (https://sketchfab.com/3d-models/caterpillar-skid-steer-loader-859a64d242314ec3af5bfb449bdfa673) by EddyNL (https://sketchfab.com/EddyNL) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
