@@ -1,5 +1,5 @@
 import Logo from "@assets/images/logo.svg";
-import Login from "@assets/images/Login.svg";
+import Login from "@assets/images/login.svg";
 
 const data = [
   { type: "img", src: Logo, alt: "logo", className: "root__logo" },
